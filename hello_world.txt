@@ -1,0 +1,2 @@
+Hello world! I'm figuring out how to use git again.
+It's been some time since I practiced coding!
